@@ -1,5 +1,6 @@
 # Your Python Path Here
 # https://www.hackerrank.com/challenges/find-point
+# find symmetric point of point P about Q.
 x = int(input());
 while(x > 0):
 	line = input().split();
