@@ -1,5 +1,4 @@
 # Your Python Path Here
-# Your Python Path Here
 # https://www.hackerrank.com/challenges/maximum-draws
 # Maximum Draws - pigeonhole principle
 x = int(input());
